@@ -1,0 +1,3 @@
+[Lens]
+namespace = "MyriadTest.App"
+pipedsetter = true
